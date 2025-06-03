@@ -29,7 +29,7 @@
 | 27 | **Self-Herding** | Past choices steer future ones (“I’m a buyer”). | Reinforce identity immediately post-purchase. | “Welcome, Trailblazer! Badge unlocked after your first lesson.” | | |
 | 28 | **Anti-Authority (Wrongology)** | Openly noting weaknesses boosts credibility. | “Here’s where we still fall short…” section. | “We’re not perfect: Android dark-mode lands next month—here’s the roadmap.” | | |
 | 29 | **Desirable Difficulty** | A tiny hurdle increases perceived value. | Short quiz before unlock, secret password. | “Answer 3 quick questions to reveal Insider pricing.” | | |
-| 30 | **Trojan-Horse Content** | Deliver unexpected payoff beyond headline promise. | Subject teases X, body gifts X + bonus Y. | Subject: “Find your focus.” Body: guide *and* free Pomodoro timer. | | |
+| 30 | **Trojan-Horse Content** | Deliver unexpected payoff beyond headline promise. | Subject teases X, body gifts X + bonus Y. | “Find your focus - guide *and* free Pomodoro timer." | | |
 | 31 | **Baader-Meinhof Frequency Spike** | After noticing a thing, we “see it everywhere,” boosting salience. | Retarget ads, podcast mentions, inbox P.S. right after first click. | “Notice how every second founder on LinkedIn is citing ‘pricing power’? That’s our playbook in action.” | | |
 | 32 | **Enclothed Cognition Cue** | Mentally “wearing” an item shifts self-perception & behaviour. | AR try-ons, name-stamped mock-ups, POV video. | “Slide this watch onto your wrist in 3-D—hear boardroom decisions click louder.” | | |
 | 33 | **Inoculation Pitch** | Mild counter-argument immunises against stronger objections. | “You might think X… here’s why that’s half-true.” | “Sure, AI notes look generic—*if* you haven’t trained the prompts. Watch us weaponise prose into deal-closing gold.” | | |
@@ -48,7 +48,7 @@
 | 46 | **Diderot Effect Harness** | One buy sparks a chain of complementary buys. | Bundled add-ons, matching themes. | “Your new fountain pen deserves the parchment journal—save 15 % when paired.” | | |
 | 47 | **Truth-Bias Disruptor** | We default to believing unless cued to doubt. | State bold claim then verify instantly. | “Ships tomorrow. Yes, really—orders before 3 p.m. print straight to the belt.” | | |
 | 48 | **Affective Forecast Flip** | People mis-predict future feelings—guide them. | Ask to imagine post-purchase emotion. | “Friday night, laptop closed, taxes done—because TurboBot ran the numbers.” | | |
-| 49 | **Anti-Mimetic Magnet** | We notice rule-breakers. | Vertical testimonials, blank hero, silent autoplay. | *Hero*: a white square + blinking cursor: “Everything else is noise → enter.” | | |
+| 49 | **Anti-Mimetic Magnet** | We notice rule-breakers. | Vertical testimonials, blank hero, silent autoplay. | “Everything else is noise → enter.” | | |
 | 50 | **Effort-Justification Trigger** | Small pre-purchase effort inflates value. | Mini quiz, configurator, crowd-vote gate. | “Answer 4 sliders to sculpt *your* skincare formula—unlock at checkout.” | | |
 | 51 | **Variable-Reward Loop** | Unpredictable pay-offs spike dopamine. | Easter eggs, spin wheels, rotating bonuses. | “Open today’s lesson—1 in 5 unlocks a secret masterclass.” | | |
 | 52 | **Pique Technique** | Quirky specifics snap attention. | Odd numerals, 212-second audit. | “Can I borrow 18 p of your attention for one quick graph?” | | |
@@ -58,5 +58,5 @@
 | 56 | **Dynamic Norms Effect** | People follow *trends*, not static norms. | Phrase proof as movement gaining speed. | “Last month, 9,314 designers switched—join early.” | | |
 | 57 | **Illusory Truth Amplifier** | Repetition quietly boosts truthiness. | Repeat core promise verbatim across assets. | “Sleep deeper. Wake clearer.”—hero, quote, exit-pop. | | |
 | 58 | **Default Nudge** | We stick with pre-selected options. | Pre-check annual plan, mark “recommended.” | “✅ Annual plan (2 months free, cancel anytime).” | | |
-| 59 | **Operant Framing** | The action itself triggers a micro-reward. | Confetti burst, haptic buzz, “cha-ching” sound. | Button blip + confetti: “Nice click—credit applied!” | | |
+| 59 | **Operant Framing** | The action itself triggers a micro-reward. | Confetti burst, haptic buzz, “cha-ching” sound. | “Nice click—credit applied!” | | |
 | 60 | **Parasocial Whisper** | Human conversational tone builds one-sided friendship. | Voice-note emails, “typing…” GIFs, founder asides. | “Hey—it’s Jade. Just brewed an espresso and thought of a tweak for your funnel…” | | |
